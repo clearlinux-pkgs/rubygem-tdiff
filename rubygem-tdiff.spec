@@ -4,7 +4,7 @@
 #
 Name     : rubygem-tdiff
 Version  : 0.3.3
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/tdiff-0.3.3.gem
 Source0  : https://rubygems.org/downloads/tdiff-0.3.3.gem
 Summary  : No detailed summary available
@@ -66,39 +66,26 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/tdiff-0.3.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/Unordered/cdesc-Unordered.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/Unordered/included-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/Unordered/tdiff_recursive_unordered-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/Unordered/tdiff_unordered-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/cdesc-TDiff.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/tdiff-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/tdiff_each_child-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/tdiff_equal-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/TDiff/tdiff_recursive-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/page-ChangeLog_md.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/page-LICENSE_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/tdiff-0.3.3/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/.document
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/.gemtest
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/.rspec
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/.yardopts
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/ChangeLog.md
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/gemspec.yml
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/lib/tdiff.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/lib/tdiff/tdiff.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/lib/tdiff/unordered.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/lib/tdiff/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/spec/classes/node.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/spec/helpers/trees.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/spec/spec_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/spec/tdiff_examples.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/spec/tdiff_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/spec/unordered_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/tdiff-0.3.3/tdiff.gemspec
-/usr/lib64/ruby/gems/2.2.0/specifications/tdiff-0.3.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/tdiff-0.3.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/.document
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/.gemtest
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/.rspec
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/.yardopts
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/ChangeLog.md
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/gemspec.yml
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/lib/tdiff.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/lib/tdiff/tdiff.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/lib/tdiff/unordered.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/lib/tdiff/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/spec/classes/node.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/spec/helpers/trees.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/spec/spec_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/spec/tdiff_examples.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/spec/tdiff_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/spec/unordered_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/tdiff-0.3.3/tdiff.gemspec
+/usr/lib64/ruby/gems/2.3.0/specifications/tdiff-0.3.3.gemspec
